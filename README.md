@@ -13,6 +13,31 @@ When you use a bitcoin mixer, you send your money to an anonymous service and, i
 I am going to try to update a list of Bitcoin mixers/tumblers websites frequently. It will be sorted from the best to the worst.
 
 
+⭐⭐⭐⭐⭐Name: Helix (Reborn)
+🔹Official clearnet link: https://helixmixer.org/
+🔹Tor link: http://grams7pqxexlc5es.onion/
+🔹Reviews: darknetmarket, deepdotweb and reddit
+🔹Fees: Randomized Fees from 1% to 3% (+ Network fees 0,0005)
+🔹Helix video tutorial:
+
+⭐⭐⭐⭐⭐Name: CoinMixer
+🔹Official clearnet link: https://coinmixer.es
+🔹Tor link: http://coinminj7oengi3s.onion
+🔹Reviews: darknetmarket, deepdotweb, bitcointalk and reddit
+🔹Fees: Randomized Fees from 1% to 3% (+ Network fees 0,0005)
+🔹Coinmixer video tutorial:
+
+⭐⭐⭐⭐⭐Name: Ultramixer
+🔹Official clearnet link: https://ultramixer.net
+🔹Reviews: bitcointalk
+🔹Fees: minimum fee 0.5% (+ Network fees)
+⭐⭐⭐⭐Name: BitcoinMixer
+🔹Official clearnet link: https://bitcoinmixer.eu
+🔹Reviews: bitcointalk
+🔹Fees: Very low, 0.1% (+Network fees)
+
+
+
 ⭐⭐⭐Name: BestMixer
 🔹Official clearnet link: https://bestmixer.io/en
 🔹Tor link: bestmixer7o57mba.onion
